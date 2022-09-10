@@ -1,3 +1,4 @@
 Grupo
-Wilder Darwin Vera Quispe   
-Bernabe Daniel Inche Ticlavilca
+
+-Wilder Darwin Vera Quispe   
+-Bernabe Daniel Inche Ticlavilca
