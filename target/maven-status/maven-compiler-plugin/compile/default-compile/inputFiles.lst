@@ -1,0 +1,13 @@
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/model/clienttype/PersonalAccount.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/service/ClientService.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/model/EstrategyForClientType.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/controller/DTO/ClientDTO.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/ServiceclientApplication.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/controller/ActuatorController.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/service/ClientImp.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/model/ClientType.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/repository/ClientRespository.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/controller/ClientController.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/model/clienttype/EnterpriseAccount.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/model/Client.java
+/home/coco/IdeaProjects/serviceclient/src/main/java/com/nttdata/serviceclient/model/clienttype/LegalRepreAccount.java

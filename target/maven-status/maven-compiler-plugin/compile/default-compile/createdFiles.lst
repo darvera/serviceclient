@@ -1,0 +1,13 @@
+com/nttdata/serviceclient/controller/ClientController.class
+com/nttdata/serviceclient/model/ClientType.class
+com/nttdata/serviceclient/controller/DTO/ClientDTO.class
+com/nttdata/serviceclient/model/clienttype/PersonalAccount.class
+com/nttdata/serviceclient/model/clienttype/LegalRepreAccount.class
+com/nttdata/serviceclient/model/Client.class
+com/nttdata/serviceclient/model/EstrategyForClientType.class
+com/nttdata/serviceclient/ServiceclientApplication.class
+com/nttdata/serviceclient/service/ClientImp.class
+com/nttdata/serviceclient/service/ClientService.class
+com/nttdata/serviceclient/repository/ClientRespository.class
+com/nttdata/serviceclient/controller/ActuatorController.class
+com/nttdata/serviceclient/model/clienttype/EnterpriseAccount.class
